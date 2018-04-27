@@ -1,0 +1,16 @@
+a{
+    font-size: 36px;
+    font-weight: bolder;
+}
+a:focus{
+    background: blue;
+}
+
+a:hover{
+    background: lightgreen;
+}
+
+
+a:active{
+    font-size:500px;
+}
